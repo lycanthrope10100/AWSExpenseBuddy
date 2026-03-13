@@ -8,7 +8,7 @@ Your go-to for AWS expense breakdowns. Get daily and monthly cost analysis based
 ```
 
 ## Debugging:
-* Replace the <placeholders> in the code with the value, actual links and creds.
+* Replace the \<placeholders\> in the code with the value, actual links and creds.
 ```bash
 Line 8 - "account_number": "<your_account_id>",
 Line 9 - "region": "<your_account_region>",
